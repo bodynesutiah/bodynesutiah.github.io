@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bodynesutiah.github.io/sitemap.xml
